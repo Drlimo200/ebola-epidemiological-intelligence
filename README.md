@@ -57,5 +57,7 @@ WHO Ebola Situation Reports — 2014–2016 West Africa Outbreak
 Countries: Guinea, Liberia, Sierra Leone (core) + Nigeria, Mali, Senegal, Spain, Italy, UK, USA
 
 ---
-  
+
+### Copyright
+© 2024 **Spp Data Wizards & Healthcare Intelligence**  
 All rights reserved. Unauthorised reproduction or redistribution of this work is prohibited.
