@@ -1,5 +1,4 @@
 # Ebola Epidemiological Intelligence Dashboard
-## © 2024 Spp Data Wizards & Healthcare Intelligence
 
 ---
 
