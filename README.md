@@ -58,5 +58,4 @@ Countries: Guinea, Liberia, Sierra Leone (core) + Nigeria, Mali, Senegal, Spain,
 ---
 
 ### Copyright
-© 2024 **Spp Data Wizards & Healthcare Intelligence**  
 All rights reserved. Unauthorised reproduction or redistribution of this work is prohibited.
